@@ -9,7 +9,7 @@ cr(stopień filtru)rc(stopień filtru)(rezystancja).dat
 przykłady: cr1rc2200k.dat cr1m.datdajrze 
 Dodatkowe potrzebne pliki: 
 
-wzm.dat- szum czystego wzacnaicza 
+wzm.dat- szum czystego wzacnaicza     
 16mVrms.dat- już nie pamiętam... sam szum? zmień wartość w nazwie pliku.
 
 kolejność działania:
