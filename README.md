@@ -6,7 +6,7 @@ pliki powinny się nazywać:
 
 cr(stopień filtru)rc(stopień filtru)(rezystancja).dat
 
-przykłady: cr1rc2200k.dat cr1m.datdajrze 
+przykłady: cr1rc2200k.dat cr1m.dat cr1rc3100k.dat   
 Dodatkowe potrzebne pliki: 
 
 wzm.dat- szum czystego wzacnaicza     
